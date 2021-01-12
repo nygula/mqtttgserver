@@ -1,0 +1,17 @@
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\Castle.Mqtt.TGServer.exe.config
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\Castle.Mqtt.TGServer.exe
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\Castle.Mqtt.TGServer.pdb
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Agent.dll
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Core.dll
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.MQTT.dll
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Agent.pdb
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Agent.xml
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Core.pdb
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.Core.xml
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.MQTT.pdb
+D:\cscode\castlenew\Castle.Mqtt.TGServer\bin\Debug\NewLife.MQTT.xml
+D:\cscode\castlenew\Castle.Mqtt.TGServer\obj\Debug\Castle.Mqtt.TGServer.csproj.CoreCompileInputs.cache
+D:\cscode\castlenew\Castle.Mqtt.TGServer\obj\Debug\Castle.Mqtt.TGServer.csproj.CopyComplete
+D:\cscode\castlenew\Castle.Mqtt.TGServer\obj\Debug\Castle.Mqtt.TGServer.exe
+D:\cscode\castlenew\Castle.Mqtt.TGServer\obj\Debug\Castle.Mqtt.TGServer.pdb
+D:\cscode\castlenew\Castle.Mqtt.TGServer\obj\Debug\Castle.Mqtt.TGServer.csprojAssemblyReference.cache
